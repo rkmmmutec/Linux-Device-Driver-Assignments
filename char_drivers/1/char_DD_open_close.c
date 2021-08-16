@@ -9,7 +9,7 @@
 #define NAME MyCharDevice
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Ashutosh");
+MODULE_AUTHOR("Rajeev_Sharma");
 
 int NAME_open(struct inode *inode , struct file *filp);
 
