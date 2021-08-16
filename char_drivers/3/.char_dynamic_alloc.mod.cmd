@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.mod := { echo  /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.o;  echo; } > /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.mod

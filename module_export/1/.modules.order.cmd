@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/module_export/1/modules.order := {   echo /home/pi/device-drivers/module_export/1/my_add.ko;   echo /home/pi/device-drivers/module_export/1/average.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/module_export/1/modules.order

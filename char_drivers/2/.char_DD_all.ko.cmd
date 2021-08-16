@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/2/char_DD_all.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/char_drivers/2/char_DD_all.ko /home/pi/device-drivers/char_drivers/2/char_DD_all.o /home/pi/device-drivers/char_drivers/2/char_DD_all.mod.o;  true

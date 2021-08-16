@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/1/char_DD_open_close.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/char_drivers/1/char_DD_open_close.ko /home/pi/device-drivers/char_drivers/1/char_DD_open_close.o /home/pi/device-drivers/char_drivers/1/char_DD_open_close.mod.o;  true

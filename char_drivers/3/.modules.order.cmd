@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/3/modules.order := {   echo /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/char_drivers/3/modules.order

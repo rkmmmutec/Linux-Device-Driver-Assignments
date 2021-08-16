@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/module_export/1/my_add.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/module_export/1/my_add.ko /home/pi/device-drivers/module_export/1/my_add.o /home/pi/device-drivers/module_export/1/my_add.mod.o;  true

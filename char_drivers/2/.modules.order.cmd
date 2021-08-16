@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/2/modules.order := {   echo /home/pi/device-drivers/char_drivers/2/char_DD_all.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/char_drivers/2/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.ko /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.o /home/pi/device-drivers/char_drivers/3/char_dynamic_alloc.mod.o;  true
