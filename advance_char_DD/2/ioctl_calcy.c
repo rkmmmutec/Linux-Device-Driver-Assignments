@@ -8,7 +8,7 @@
 #include "ioctl_header.h"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Ashutosh");
+MODULE_AUTHOR("Rajeev_Sharma");
 
 int Myopen(struct inode *inode, struct file *file_ioctl);
 int Myrelease(struct inode *inode, struct file *file_ioctl);
